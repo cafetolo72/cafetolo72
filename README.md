@@ -1,12 +1,14 @@
 # ¡Hola! 👋 Soy cafetolo72
 
-¡Bienvenido/a a mi perfil de GitHub! Me llamo [Tu Nombre] y soy desarrollador/a con interés en crear soluciones limpias y escalables. Me interesa trabajar en proyectos que involucren [tu área — p. ej. backend, frontend, Data Science, DevOps], y siempre estoy aprendiendo nuevas tecnologías.
+¡Bienvenido/a a mi perfil de GitHub! Me llamo Joan Osorio y soy desarrollador con interés en crear soluciones limpias y escalables. Me interesa trabajar en proyectos que involucren [tu área — p. ej. backend, frontend, Data Science, DevOps], y siempre estoy aprendiendo nuevas tecnologías.
 
 ## Carta de presentación
-Soy una persona proactiva y orientada a resultados, con experiencia en desarrollar aplicaciones [describe brevemente: web, móviles, APIs, infra, ML, etc.]. Me adapto con rapidez a equipos multidisciplinares y disfruto aportar buenas prácticas de ingeniería de software: código legible, pruebas automatizadas y revisiones constantes.
+Hola!👋
+
+Soy una persona proactiva y orientada a resultados, con experiencia en desarrollar aplicaciones. Me adapto con rapidez a equipos multidisciplinares y disfruto aportar buenas prácticas de ingeniería de software: código legible, arquitectura sólida, soluciones escalables, pruebas automatizadas y revisiones constantes.
 
 Actualmente busco oportunidades donde pueda:
-- Aportar experiencia en [ej. Node.js/TypeScript, Python, React, etc.].
+- Aportar experiencia en Node.js/TypeScript, Python, Java, etc..
 - Colaborar con equipos que valoren el aprendizaje continuo.
 - Construir productos que generen impacto real en usuarios.
 
